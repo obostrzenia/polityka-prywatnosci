@@ -1,4 +1,4 @@
-#Polityka prywatności
+# Polityka prywatności
 
 1. Niniejszy dokument opisuje politykę prywatności Aplikacji mobilnej “Obostrzenia”, zwanej dalej „Aplikacją”.
 
@@ -18,6 +18,6 @@
 
 9. W przypadku braku zgody na niniejszą politykę prywatności nie instaluj Aplikacji bądź ją odinstaluj.
 
-10. Usługodawca zastrzega sobie prawo zmiany polityki prywatności poprzez opublikowanie nowej na polityki prywatności na stronie [ kontakt.obostrzenia@gmail.com ](kontakt.obostrzenia@gmail.com)
+10. Usługodawca zastrzega sobie prawo zmiany polityki prywatności poprzez opublikowanie nowej na polityki prywatności na stronie [ https://github.com/obostrzenia/polityka-prywatnosci/ ](https://github.com/obostrzenia/polityka-prywatnosci/)
 
 [ kontakt.obostrzenia@gmail.com ](kontakt.obostrzenia@gmail.com)
